@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("Moserware.Skills")]
+[assembly: AssemblyTitle("Moserware.Moserware.Skills")]
 [assembly: AssemblyDescription("Implementation of the TrueSkill algorithm.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Jeff Moser")]
